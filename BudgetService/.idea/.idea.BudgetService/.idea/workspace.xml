@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f08c8bbc-d82b-4c98-8b6a-556c1ac9d863" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BudgetService/AccountingService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BudgetService/AccountingServiceTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BudgetService/Budget.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BudgetService/IBudgetRepo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/AccountingService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/AccountingService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/AccountingServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/AccountingServiceTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BudgetService/BudgetService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/BudgetService.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/BudgetService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/BudgetService.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/ref/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/ref/BudgetService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/refint/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/refint/BudgetService.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/99bc534bde53a8235d41b3f0da25ecdbfc4b625df6c41feebefcfcc18f66c3f/FluentTimeSpanExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666598769354</updated>
-      <workItem from="1666598775560" duration="1195000" />
+      <workItem from="1666598775560" duration="7825000" />
     </task>
     <servers />
   </component>
