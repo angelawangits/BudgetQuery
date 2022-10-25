@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f08c8bbc-d82b-4c98-8b6a-556c1ac9d863" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/AccountingService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/AccountingService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/AccountingServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/AccountingServiceTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/BudgetService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/BudgetService.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/bin/Debug/net6.0/BudgetService.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/BudgetService.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/ref/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/ref/BudgetService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/refint/BudgetService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetService/obj/Debug/net6.0/refint/BudgetService.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666598769354</updated>
-      <workItem from="1666598775560" duration="7825000" />
+      <workItem from="1666598775560" duration="8680000" />
     </task>
     <servers />
   </component>

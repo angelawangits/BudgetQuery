@@ -36,7 +36,8 @@ public class AccountingService
         while (current < new DateTime(end.Year,end.Month,1))
         {
             var currentBudget = budgets.FirstOrDefault(x => x.YearMonth == current.ToString(
-                "yyyyMM"));
+                "yyyyMM")) ?? new Budget();
+
             totalMiddleAmount += currentBudget.Amount;
             current = current.AddMonths(1);
         } 
